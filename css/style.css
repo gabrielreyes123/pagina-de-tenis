@@ -777,12 +777,12 @@ h6 {
   margin: 0;
 }
 
-#nike .portfolio-item .portfolio-wrap:hover img {
+#nike .nike-item .nike-wrap:hover img {
   opacity: 0.4;
   transition: 0.3s;
 }
 
-#nike .portfolio-item .portfolio-wrap .portfolio-info {
+#nike .nike-item .nike-wrap .nike-info {
   position: absolute;
   top: 0;
   right: 0;
@@ -810,7 +810,7 @@ h6 {
   transition: 0.2s linear;
 }
 
-#nike .portfolio-item .portfolio-wrap .portfolio-info h4 {
+#nike .nike-item .nike-wrap .nike-info h4 {
   font-size: 22px;
   line-height: 1px;
   font-weight: 700;
@@ -818,15 +818,15 @@ h6 {
   padding-bottom: 0;
 }
 
-#nike .portfolio-item .portfolio-wrap .portfolio-info h4 a {
+#nike .nike-item .nike-wrap .nike-info h4 a {
   color: #fff;
 }
 
-#nike .portfolio-item .portfolio-wrap .portfolio-info h4 a:hover {
+#nike .nike-item .nike-wrap .nike-info h4 a:hover {
   color: #000;
 }
 
-#nike .portfolio-item .portfolio-wrap .portfolio-info p {
+#nike .nike-item .nike-wrap .nike-info p {
   padding: 0;
   margin: 0;
   color: #f8fcff;
@@ -835,8 +835,8 @@ h6 {
   text-transform: uppercase;
 }
 
-#nike .portfolio-item .portfolio-wrap .portfolio-info .link-preview,
-#nike .portfolio-item .portfolio-wrap .portfolio-info .link-details {
+#nike .nike-item .nike-wrap .nike-info .link-preview,
+#nike .nike-item .nike-wrap .nike-info .link-details {
   display: inline-block;
   line-height: 1;
   text-align: center;
@@ -847,28 +847,28 @@ h6 {
   margin: 10px 4px 0 4px;
 }
 
-#nike .portfolio-item .portfolio-wrap .portfolio-info .link-preview i,
-#nike .portfolio-item .portfolio-wrap .portfolio-info .link-details i {
+#nike .nike-item .nike-wrap .nike-info .link-preview i,
+#nike .nike-item .nike-wrap .nike-info .link-details i {
   padding-top: 6px;
   font-size: 22px;
   color: #fff;
 }
 
-#nike .portfolio-item .portfolio-wrap .portfolio-info .link-preview:hover,
-#nike .portfolio-item .portfolio-wrap .portfolio-info .link-details:hover {
+#nike .nike-item .nike-wrap .nike-info .link-preview:hover,
+#nike .nike-item .nike-wrap .nike-info .link-details:hover {
   background: #000;
 }
 
-#nike .portfolio-item .portfolio-wrap .portfolio-info .link-preview:hover i,
-#nike.portfolio-item .portfolio-wrap .portfolio-info .link-details:hover i {
+#nike .nike-item .nike-wrap .nike-info .link-preview:hover i,
+#nike .nike-item .nike-wrap .nike-info .link-details:hover i {
   color: #fff;
 }
 
-#nike .portfolio-item .portfolio-wrap:hover {
+#nike .nike-item .nike-wrap:hover {
   background: #000;
 }
 
-#nike.portfolio-item .portfolio-wrap:hover .portfolio-info {
+#nike .nike-item .nike-wrap:hover .nike-info {
   opacity: 1;
 }
 
